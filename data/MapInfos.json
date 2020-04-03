@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":true,"name":"世界2","order":1,"parentId":0,"scrollX":1216,"scrollY":858},
+{"id":2,"expanded":true,"name":"森林城镇","order":2,"parentId":1,"scrollX":1390.2857142857142,"scrollY":1145.142857142857},
+{"id":3,"expanded":true,"name":"旅馆1F","order":3,"parentId":2,"scrollX":982.8,"scrollY":542.4},
+{"id":4,"expanded":false,"name":"村中民家1F","order":4,"parentId":2,"scrollX":982.8,"scrollY":542.4},
+{"id":5,"expanded":false,"name":"旅馆1F","order":8,"parentId":1,"scrollX":982.8,"scrollY":542.4},
+{"id":6,"expanded":false,"name":"狗霸王洞穴","order":9,"parentId":1,"scrollX":1081.3333333333333,"scrollY":744},
+{"id":7,"expanded":false,"name":"武器屋","order":5,"parentId":2,"scrollX":982.8,"scrollY":542.4},
+{"id":8,"expanded":false,"name":"防具屋","order":6,"parentId":2,"scrollX":982.8,"scrollY":542.4},
+{"id":9,"expanded":false,"name":"黑市","order":7,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":10,"expanded":false,"name":"新手引导","order":10,"parentId":0,"scrollX":832,"scrollY":640}
+]
